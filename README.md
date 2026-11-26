@@ -9,7 +9,7 @@ Cada dupla adiciona **um arquivo** em `receitas/` e **uma linha** no índice aba
 ## Índice
 
 1. [Bolo de caneca](receitas/bolo-de-caneca.md)
-2. 
+2. [Brownie](receitas/brownie-carlos.md)
 3. 
 4. 
 5. 
