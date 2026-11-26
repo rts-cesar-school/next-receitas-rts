@@ -14,4 +14,4 @@
 
 ## Modo de preparo
 
-1. ...
+1. Em um liquidificador, bata o milho, leite, óleo e os ovos.
